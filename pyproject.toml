@@ -2,8 +2,7 @@
 requires = [
 	"setuptools>=42",
 	"wheel",
-	"mysql",
-	"collections"
+	"mysql-connector-python",
 ]
 build-backend = "setuptools.build_meta"
 
