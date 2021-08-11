@@ -1,4 +1,4 @@
-from .cursor.cursor import Cursor
+from .cursor import Cursor
 
 
 class DBException(Exception):
