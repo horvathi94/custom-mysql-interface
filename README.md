@@ -1,3 +1,6 @@
 # Custom MySQL interface
 
-A custom package for managing data in a MySQL database. The selected information is returned as collections.OrderedDict items.
+A custom Python package for managing data in a MySQL database. The selected information is returned as collections.OrderedDict items.
+
+Requires:
+	- Python>=3.7
